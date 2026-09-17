@@ -1,0 +1,14 @@
+{
+  "name": "SyncHubControl",
+  "entry": "main.py",
+  "kind": "gui",
+  "build_mode": "onefile",
+  "hidden_imports": [
+    "customtkinter",
+    "PIL._tkinter_finder",
+    "requests",
+    "xml.etree.ElementTree"
+  ],
+  "data_dirs": [],
+  "icon": null
+}
